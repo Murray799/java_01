@@ -1,7 +1,8 @@
-void def 1
+void 
 
-sdf<sadf
+def new(){
+  int two = 2
+  console.log(two)
+}
 
 
-sdf<swdfyswdfd
-gfsrfthe
